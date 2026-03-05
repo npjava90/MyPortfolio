@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Nisarg Pathak",
+    "label": "Senior Software Engineer | Java & Spring Boot Architect",
+    "summary": "Senior Backend Engineer with 12+ years of experience designing scalable, cloud-native distributed systems in the banking and financial services domain. I specialize in Java, Spring Boot microservices, AWS architecture, Kafka-based event-driven systems, and OpenAI-powered enterprise automation.\n\nI architect high-availability systems focused on resiliency, performance optimization, secure design, and operational excellence. Experienced in leading end-to-end system design—from API design and data modeling to Infrastructure as Code and CI/CD automation.\n\nCurrently building cloud-native banking platforms at JPMorgan Chase, integrating AI/LLM capabilities to enhance decision workflows and business intelligence.",
+    "location": "Bengaluru, Karnataka, India",
+    "email": "npjava90@gmail.com",
+    "phone": "9892502539",
+    "url": "https://nisargpathak.blogspot.in",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/nisargpathak-903b8b32"
+      },
+      {
+        "network": "Blog",
+        "url": "https://nisargpathak.blogspot.in"
+      }
+    ]
+  },
+  "focusAreas": [
+    "Distributed Systems & Microservices Architecture",
+    "AWS Cloud (ECS, EC2, RDS, DynamoDB, IAM, S3)",
+    "Event-Driven Architecture (Kafka)",
+    "Infrastructure as Code (Terraform)",
+    "OpenAI & LLM Enterprise Integration",
+    "High Availability & Scalability Engineering"
+  ],
+  "experience": [
+    {
+      "company": "JPMorgan Chase & Co.",
+      "position": "Senior Software Engineer III",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "June 2022",
+      "endDate": "Present",
+      "duration": "3 years 10 months",
+      "highlights": [
+        "Currently building cloud-native banking platforms at JPMorgan Chase",
+        "Integrating AI/LLM capabilities to enhance decision workflows and business intelligence"
+      ]
+    },
+    {
+      "company": "Wells Fargo",
+      "position": "Senior Software Engineer-AVP",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "March 2021",
+      "endDate": "May 2022",
+      "duration": "1 year 3 months",
+      "highlights": []
+    },
+    {
+      "company": "JPMorgan Chase & Co.",
+      "position": "Associate Software Engineering",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "October 2018",
+      "endDate": "March 2021",
+      "duration": "2 years 6 months",
+      "highlights": []
+    },
+    {
+      "company": "ORACLE FINANCIAL SERVICES SOFTWARE LIMITED",
+      "position": "Software Developer",
+      "location": "Bengaluru, Karnataka, India",
+      "startDate": "August 2016",
+      "endDate": "May 2018",
+      "duration": "1 year 10 months",
+      "highlights": []
+    },
+    {
+      "company": "In-Solutions Global Pvt Ltd",
+      "position": "Software Engineer",
+      "location": "Mumbai",
+      "startDate": "November 2015",
+      "endDate": "October 2016",
+      "duration": "1 year",
+      "highlights": []
+    },
+    {
+      "company": "Mindgate Solutions Pvt. Ltd",
+      "position": "Junior Software Engineer",
+      "location": "Mumbai",
+      "startDate": "August 2014",
+      "endDate": "November 2015",
+      "duration": "1 year 4 months",
+      "highlights": []
+    },
+    {
+      "company": "ORBIT BIZSOL PRIVATE LIMITED",
+      "position": "Java Developer",
+      "location": "Vadodara, Gujarat, India",
+      "startDate": "September 2013",
+      "endDate": "August 2014",
+      "duration": "1 year",
+      "highlights": []
+    }
+  ],
+  "skills": [
+    { "name": "GenAI", "category": "Top Skills" },
+    { "name": "OpenAI API", "category": "Top Skills" },
+    { "name": "SRE", "category": "Top Skills" },
+    { "name": "Java", "category": "Backend" },
+    { "name": "Spring Boot", "category": "Backend" },
+    { "name": "AWS Cloud (ECS, EC2, RDS, DynamoDB, IAM, S3)", "category": "Cloud" },
+    { "name": "Kafka", "category": "Event-Driven" },
+    { "name": "Terraform", "category": "Infrastructure" },
+    { "name": "OpenAI & LLM Enterprise Integration", "category": "AI" },
+    { "name": "High Availability & Scalability Engineering", "category": "Engineering" },
+    { "name": "Distributed Systems & Microservices Architecture", "category": "Architecture" }
+  ],
+  "education": [
+    {
+      "institution": "GLS institute of Computer Technology",
+      "area": "Computer Science",
+      "studyType": "Master of Computer Applications (M.C.A.)",
+      "startDate": "2012",
+      "endDate": "2013"
+    },
+    {
+      "institution": "Shree Narayan vidhyalay",
+      "area": "Commerce",
+      "studyType": "H.S.C",
+      "startDate": "2008",
+      "endDate": "2010"
+    },
+    {
+      "institution": "SEMCOM",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Computer Applications (BCA)",
+      "startDate": "2007",
+      "endDate": "2010"
+    },
+    {
+      "institution": "Dr. N.G.Shah school",
+      "area": "General Studies",
+      "studyType": "S.S.C",
+      "startDate": "2004",
+      "endDate": "2005"
+    }
+  ],
+  "certifications": [
+    "Building Scalable Java Microservices with Spring Boot and Spring Cloud",
+    "Master Docker with java- Devops for microservices",
+    "Pivotal cloud foundry for Web Developers",
+    "Master microservices with spring boot and spring cloud",
+    "Java microservices with spring cloud: developing services"
+  ],
+  "awards": [
+    {
+      "title": "Best Financial IT Team",
+      "awarder": "Honors-Awards"
+    }
+  ],
+  "languages": ["English", "Hindi"],
+  "extra": [
+    "Immediate Joiner",
+    "12+ Years of experience",
+    "Banking Technology specialist"
+  ]
+}
